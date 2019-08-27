@@ -1,0 +1,2 @@
+class HuiswerkWeek1{
+}
